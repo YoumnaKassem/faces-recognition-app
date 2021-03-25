@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+  background: radial-gradient(circle, rgba(221,251,63,1) 0%, rgba(252,70,107,0.27494747899159666) 100%);
+  margin: 1rem;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.main{
+  display: flex;
+
+}
+.detectedImg{
+  display: flex;
+  
+  align-items: center;
+  justify-content: center;
+}
+.fontFlow{  
+  
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.bounding{
+  position: absolute;
+    box-shadow: 0 0 0 2px #282c34 inset;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    cursor: pointer;
+
+}
+.title{
+  display: flex;
+  align-self: flex-start;
+
+
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+.back-g{
+  background: radial-gradient(circle, rgba(221,251,40,0) 0%, rgba(252,70,107,0.27494747899159666) 100%);
+
+}
+
+.shadow-4{
+  box-shadow: 2px 2px 8px 0 rgba( 0, 0, 0, .2 );
+
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
