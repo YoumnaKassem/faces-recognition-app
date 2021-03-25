@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/faces-recognition-app/static/css/main.495c5ed9.chunk.css",
+    "main.js": "/faces-recognition-app/static/js/main.3a681fec.chunk.js",
+    "main.js.map": "/faces-recognition-app/static/js/main.3a681fec.chunk.js.map",
+    "runtime-main.js": "/faces-recognition-app/static/js/runtime-main.04093692.js",
+    "runtime-main.js.map": "/faces-recognition-app/static/js/runtime-main.04093692.js.map",
+    "static/css/2.fe359a49.chunk.css": "/faces-recognition-app/static/css/2.fe359a49.chunk.css",
+    "static/js/2.606ce2ce.chunk.js": "/faces-recognition-app/static/js/2.606ce2ce.chunk.js",
+    "static/js/2.606ce2ce.chunk.js.map": "/faces-recognition-app/static/js/2.606ce2ce.chunk.js.map",
+    "static/js/3.9088e9cb.chunk.js": "/faces-recognition-app/static/js/3.9088e9cb.chunk.js",
+    "static/js/3.9088e9cb.chunk.js.map": "/faces-recognition-app/static/js/3.9088e9cb.chunk.js.map",
+    "index.html": "/faces-recognition-app/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/faces-recognition-app/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.495c5ed9.chunk.css.map": "/faces-recognition-app/static/css/main.495c5ed9.chunk.css.map",
+    "static/js/2.606ce2ce.chunk.js.LICENSE.txt": "/faces-recognition-app/static/js/2.606ce2ce.chunk.js.LICENSE.txt",
+    "static/media/youmLogo.3a1912ce.png": "/faces-recognition-app/static/media/youmLogo.3a1912ce.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04093692.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.606ce2ce.chunk.js",
+    "static/css/main.495c5ed9.chunk.css",
+    "static/js/main.3a681fec.chunk.js"
+  ]
+}
